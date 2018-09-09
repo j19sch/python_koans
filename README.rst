@@ -1,3 +1,8 @@
+**NOTE**: These are my solutions to Greg Malcom's Python koans: https://github.com/gregmalcolm/python_koans
+
+Original README below.
+
+
 ============
 Python Koans
 ============
@@ -145,9 +150,9 @@ On Linux::
 On Windows::
 
     $ pip install pywin32
-    
+
 (If that failed, try::
-    
+
     $ pip install pypiwin32
 )
 
